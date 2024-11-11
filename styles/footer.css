@@ -2,9 +2,8 @@ footer {
  display: flex;
  gap: 24PX;
  padding-block: 24px;
- align-items: center;
 }
 
-footer span:nth-child {
-margin-inline-end: auto;
+footer span:nth-child(1) {
+   margin-right: auto;
 }

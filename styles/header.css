@@ -1,12 +1,12 @@
 header {
-    padding-block: 32px;
+    padding-block: 24px;
     font: var(--text-md);
 }
 
 header .container {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+     align-items: center;
 }
 
 #profile {
@@ -17,6 +17,7 @@ header .container {
 #profile > div {
    max-width: 384px;
 }
+
 
 #profile h1 {
     font: var(--text-lg);

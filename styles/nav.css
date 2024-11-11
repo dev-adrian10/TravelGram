@@ -3,7 +3,7 @@ nav {
   justify-content: space-between;
   align-items: center;
 
-  line-height: 0;
+  line-height: auto
 }
 
 nav ul {
@@ -16,8 +16,8 @@ padding-block: 8px;
 }
 
 nav ul li:last-child img {
-    width: 48px;
-    height: 48px;
+  width: 48px;
+  height: 48px;
     object-fit: cover;
     border-radius: 50%;
 }
