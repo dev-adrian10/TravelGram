@@ -1,7 +1,8 @@
 footer {
  display: flex;
+ justify-content: space-between;
  gap: 24PX;
- padding-block: 24px;
+ padding: 24px;
 }
 
 footer span:nth-child(1) {
